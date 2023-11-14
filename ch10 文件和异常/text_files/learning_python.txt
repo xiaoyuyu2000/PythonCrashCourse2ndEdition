@@ -1,0 +1,3 @@
+In Python, you can define a class with 'class'.
+In Python, you can use different data structures.
+In Python, you can calculate something.
